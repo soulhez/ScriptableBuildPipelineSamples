@@ -1,0 +1,17 @@
+{
+    "name": "ScriptableBuildPipelineSamples",
+    "references": [
+        "Unity.ScriptableBuildPipeline.Editor",
+        "Unity.ScriptableBuildPipeline"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
